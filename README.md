@@ -6,11 +6,11 @@ Vogue Merry
 
 <div align="center">
 
-Prénom1 - Prénom4
+Nargice - Christ
 <br/><br/>
-Prénom2 - Prénom5
+Milo - Caro
 <br/><br/>
-Prénom3 - Prénom6
+MC - Zoé
 
 </div>
 
