@@ -1,0 +1,9 @@
+void setup (){
+  pinMode (8, OUTPUT); //Pin relié au buzzer et configuré comme sortie
+}
+void loop (){
+  digitalWrite (8, HIGH);
+  delayMicroseconds (5000);
+  digitalWrite (8, LOW);
+  delayMicroseconds (100000);
+}
